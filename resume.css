@@ -1,7 +1,7 @@
 
 /* //-- yui-grids style overrides -- */
 body { font-family: Georgia; color: #444;}
-#inner { padding: 2px 80px; margin: 0 auto;  border: solid #666; border-width: 8px 0 12px 0; }
+#inner { padding: 2px 80px; margin: 0 auto;  border: solid #666; border-width: 8px 0 14px 0; }
 .yui-gf { margin-bottom: 2em; padding-bottom: 2.18em; border-bottom: 1px solid #ccc; }
 
 /* //-- header, body, footer -- */
@@ -31,7 +31,7 @@ p.enlarge span { color: #000 }
 
 /* //-- section styles -- */
 
-.job { position: relative; margin-bottom: 1em; padding-bottom: 0.5em; border-bottom: 1px solid #ccc; }
+.job { position: relative; margin-bottom: 0.9em; padding-bottom: 0.5em; border-bottom: 1px solid #ccc; }
 .job h4 { position: absolute; top: 0.35em; right: 0 }
 .job p { margin: 0.75em 0 0 0; }
 .job li {border-bottom: 0; list-style-type: disc; margin-left: 25px}
