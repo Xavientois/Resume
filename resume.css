@@ -1,7 +1,7 @@
 
 /* //-- yui-grids style overrides -- */
 body { font-family: Georgia; color: #444;}
-#inner { padding: 2px 80px; margin: 0 auto;  border: solid #666; border-width: 8px 0 14px 0; }
+#inner { padding: 2px 80px; margin: 0 auto;  border: solid #666; border-width: 14px 0 14px 0; }
 .yui-gf { margin-bottom: 2em; padding-bottom: 2.18em; border-bottom: 1px solid #ccc; }
 
 /* //-- header, body, footer -- */
@@ -41,7 +41,7 @@ p.enlarge span { color: #000 }
 .award ul{list-style-type: disc;}
 
 .last { border: none; }
-.talent{ width: 33%; float: left; margin-bottom: 8px}
+.talent { width: 33%; float: left; margin-bottom: 8px}
 .talent h2, p, ul {margin-bottom: 3px; color: #333}
 .talent li {border-bottom: 0;}
 
